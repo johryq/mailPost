@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FZJLJ';
+  src: url('~static/fonts/方正静蕾简体.ttf') format('truetype');
+  /* 添加其他字体样式属性（例如 font-weight 和 font-style） */
+}
+
+@font-face {
+  font-family: 'ANRS';
+  src: url('~static/fonts/AiNiRuSi-ZhiSiBuYu.ttf') format('truetype');
+  /* 添加其他字体样式属性（例如 font-weight 和 font-style） */
+}
